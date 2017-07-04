@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1498579246,
+	"version": 1499188636,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -43,6 +43,8 @@
 		"images/semtítulo-sheet0.png",
 		"images/botao-sheet0.png",
 		"images/sprite6-sheet0.png",
+		"images/sprite8-sheet0.png",
+		"images/sprite9-sheet0.png",
 		"media/ninja re bang bang   sega genesis remix.ogg",
 		"media/386655__jalastram__sfx-jump-34.m4a",
 		"media/386655__jalastram__sfx-jump-34.ogg",
