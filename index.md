@@ -12,19 +12,10 @@ aluninha de jogos aprendendo a fazer um portfolio
 ## Games
 [Attack on Demon](https://samiakarima.github.io/AttackonDemon/)  
 ## Artes
+![party] (https://vignette.wikia.nocookie.net/corpseparty/images/5/5a/Sachiko%27s_original_sprite.png/revision/latest?cb=20120819140517)
 
 
 ## Projetos
 
 
 
-* * *
-** negrito  
-_  itálico  
-~~ riscado  
-3* linho horizontal(barra)  
-#s uma ou mais hashtags criam capitulos ou sub-capitulos  
-*s add lista não ordenada  
-1s numeros criam listas ordenadas
-[texto que vai aparecer](link)
-* * *  
