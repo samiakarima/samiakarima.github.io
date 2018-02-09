@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: Blog Pessoal
 ---
 
 Criando **minha** _página_ ~~principal~~.
