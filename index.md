@@ -16,14 +16,14 @@ Komaeda Nagito did nothing wrong.
 * * *
 ## Games
 
-#### Attack on Demon
-[![](Attack.png) ](https://samiakarima.github.io/AttackonDemon/)
-#### Froppy
-[![](Froppy.png)](https://samiakarima.github.io/Froppy/)
-#### Elements
-[![](Elements.png)](https://alvaromd2016.github.io/Elements/)
 
-#### 
+[![](Attack.png)](https://samiakarima.github.io/AttackonDemon/)  
+[Attack on Demon](https://samiakarima.github.io/AttackonDemon/)  
+[![](Froppy.png)](https://samiakarima.github.io/Froppy/)  
+[Froppy](https://samiakarima.github.io/Froppy/)  
+[![](Elements.png)](https://alvaromd2016.github.io/Elements/)  
+[Elements](https://alvaromd2016.github.io/Elements/)
+
 
 [![]()]()
 * * *
