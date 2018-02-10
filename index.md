@@ -6,9 +6,9 @@ layout: default
 Komaeda Nagito did nothing wrong.  
 [![](facebook.png)](https://www.facebook.com/pqpsamia)
 [![](twitter.png)](https://twitter.com/pqpsamia)
+[![](steam.png)](http://steamcommunity.com/id/pqpsamia)
 [![](instagram.png)](https://www.instagram.com/pqpsamina)
-[![](pinterest.png)](https://br.pinterest.com/samiakarima10)
-[![](steam.png)](http://steamcommunity.com/id/pqpsamia)  
+[![](pinterest.png)](https://br.pinterest.com/samiakarima10)  
 # Portifólio
 
 ## Games
