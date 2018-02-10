@@ -5,7 +5,9 @@ layout: default
 16y, libra, Acadêmico em Programação de Jogos Digitais.  
 Komaeda Nagito did nothing wrong.  
 [![](facebook.png)](https://www.facebook.com/pqpsamia)
-[![](twitter:.png)](https://twitter.com/pqpsamia)
+[![](twitter.png)](https://twitter.com/pqpsamia)
+[![](instagram.png)](https://www.instagram.com/pqpsamina)
+[![](pinterest.png)](https://br.pinterest.com/samiakarima10)
 [![](steam.png)](http://steamcommunity.com/id/pqpsamia)  
 # Portifólio
 
