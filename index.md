@@ -11,7 +11,7 @@ aluninha de jogos aprendendo a fazer um portfolio
 
 ## Games
 [Attack on Demon](https://samiakarima.github.io/AttackonDemon/)  
-[Froppy](https://samiakarima.github.io/Froppy/)
+[![Froppy]](https://samiakarima.github.io/Froppy/)
 
 ## Artes
 ![Mikan](mikan.png)
