@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+* * *
 # Quem sou eu?  
 16y, libra, Acadêmico em Programação de Jogos Digitais.  
 Komaeda Nagito did nothing wrong.  
@@ -9,8 +10,10 @@ Komaeda Nagito did nothing wrong.
 [![](steam.png)](http://steamcommunity.com/id/pqpsamia)
 [![](instagram.png)](https://www.instagram.com/pqpsamina)
 [![](pinterest.png)](https://br.pinterest.com/samiakarima10)  
-# Portifólio
 
+* * *
+# Portifólio
+* * *
 ## Games
 
 
@@ -30,7 +33,7 @@ Komaeda Nagito did nothing wrong.
 #### 
 
 [![]()]()
-
+* * *
 ## Artes
-
-##Projetos
+* * *
+## Projetos
