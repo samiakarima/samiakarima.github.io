@@ -6,7 +6,7 @@ layout: default
 Sâmia Kárima, 16y, libra, Acadêmico em Programação de Jogos Digitais.  
 Gosto de fazer uns rabisco ![](flor.png)  
 Komaeda Nagito did nothing wrong.  
-J U S T  M O N I K A 
+JUST MONIKA! 
 
 [![](facebook.png)](https://www.facebook.com/pqpsamia)
 [![](twitter.png)](https://twitter.com/pqpsamia)
@@ -35,4 +35,4 @@ J U S T  M O N I K A
 ![](mikan.png)
 ![](chiaki.png)
 ![](jing.png)
-## Projetos
+
