@@ -4,6 +4,7 @@ layout: default
 * * *
 # Quem sou eu?  
 16y, libra, Acadêmico em Programação de Jogos Digitais.  
+Gosto de fazer uns rabisco ![](flor.png)  
 Komaeda Nagito did nothing wrong.  
 [![](facebook.png)](https://www.facebook.com/pqpsamia)
 [![](twitter.png)](https://twitter.com/pqpsamia)
@@ -29,4 +30,7 @@ Komaeda Nagito did nothing wrong.
 * * *
 ## Artes
 * * *
+![](mikan.png)
+![](chiaki.png)
+![](jing.png)
 ## Projetos
