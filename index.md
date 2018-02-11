@@ -2,7 +2,6 @@
 layout: default
 ---
 * * *
-![](meeee.jpg)
 # Quem sou eu?  
 Sâmia Kárima, 16y, libra, Acadêmico em Programação de Jogos Digitais.  
 Gosto de fazer uns rabisco ![](flor.png)  
