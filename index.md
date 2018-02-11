@@ -2,6 +2,7 @@
 layout: default
 ---
 * * *
+![](meeee.png)
 # Quem sou eu?  
 Sâmia Kárima, 16y, libra, Acadêmico em Programação de Jogos Digitais.  
 Gosto de fazer uns rabisco ![](flor.png)  
@@ -34,4 +35,8 @@ Komaeda Nagito did nothing wrong.
 * * *
 ![](mikan.png)
 ![](chiaki.png)
+
+## Sketchs ~que deus me de paciencia e coragem pra terminar~
+![](aa.png)
+![](aaa.png)
 
