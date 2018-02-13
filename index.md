@@ -35,6 +35,7 @@ Komaeda Nagito did nothing wrong.
 * * *
 ![](mikan.png)
 ![](chiaki.png)
-
+![](sad.png)
+![](yurii.png)
 
 
