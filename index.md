@@ -53,7 +53,7 @@ Efeitos Sonoros: [Freesound.](https://freesound.org/)
 
 Mockup desenvolvido como requisito para obtenção da pontuação do quarto da disciplina de Oficina de Criação, que devido a uns contratempos, não houve possibilidade de desenvolver o jogo até o fim do ano letivo, a restrição anteriormente era o jogo funcionar em grid, mas essa exigencia foi anulada posteriormente e obrigatoriamente ser em pixel art, o tema escolhido para o quarto bimestre foi mistério.  
 Feito a partir da parceria com o anluno [João Thiago](JoaoThiago06.github.io), o qual se responsabilizou pelos áudios, enquanto eu pelas artes :)  
-![Poison](poison.gif)
+                                                          ![Poison](poison.gif)
 
 * * *
 ## Artes
