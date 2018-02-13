@@ -16,6 +16,7 @@ Komaeda Nagito did nothing wrong.
 
 * * *
 # Portfólio
+
 * * *
 ## Games
 * * *
@@ -27,6 +28,7 @@ Komaeda Nagito did nothing wrong.
 * * *
 ### Elements: Origin of Matter
 [![](Elements.png)](https://alvaromd2016.github.io/Elements/)  
+
 * * *
 ## Artes
 * * *
@@ -36,6 +38,6 @@ Komaeda Nagito did nothing wrong.
 ![](yurii.png)
 
 * * *
-
 ## Meu Influence Map :D
-![](Influence Map.png)
+* * *
+![](influence.png)
