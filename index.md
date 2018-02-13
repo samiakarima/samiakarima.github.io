@@ -35,7 +35,5 @@ Komaeda Nagito did nothing wrong.
 ![](mikan.png)
 ![](chiaki.png)
 
-## Sketchs ~que deus me de paciencia e coragem pra terminar~
-![](aa.png)
-![](aaa.png)
+
 
