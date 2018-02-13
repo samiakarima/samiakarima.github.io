@@ -28,9 +28,6 @@ Komaeda Nagito did nothing wrong.
 ### Elements: Origin of Matter
 [![](Elements.png)](https://alvaromd2016.github.io/Elements/)  
 * * *
-
-[![]()]()
-* * *
 ## Artes
 * * *
 ![](mikan.png)
