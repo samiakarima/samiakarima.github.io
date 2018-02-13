@@ -35,4 +35,7 @@ Komaeda Nagito did nothing wrong.
 ![](sad.png)
 ![](yurii.png)
 
+* * *
 
+## Meu Influence Map :D
+![](Influence Map.png)
