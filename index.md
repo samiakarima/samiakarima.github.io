@@ -7,13 +7,14 @@ Sâmia Kárima, 16y, libra, Acadêmico em Programação de Jogos Digitais.
 Gosto de fazer uns rabisco ![](flor.png)  
 Komaeda Nagito did nothing wrong.  
 **JUST MONIKA!** 
+E-mail: samia.karima@hotmail.com  
 
 [![](facebook.png)](https://www.facebook.com/pqpsamia)
 [![](twitter.png)](https://twitter.com/pqpsamia)
 [![](steam.png)](http://steamcommunity.com/id/pqpsamia)
 [![](instagram.png)](https://www.instagram.com/pqpsamina)
 [![](pinterest.png)](https://br.pinterest.com/samiakarima10)  
-E-mail: samia.karima@hotmail.com  
+
 
 * * *
 # Portfólio
