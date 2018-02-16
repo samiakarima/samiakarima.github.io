@@ -5,7 +5,6 @@ layout: default
 # Quem sou eu?  
 Sâmia Kárima, 16y, libra, Acadêmico em Programação de Jogos Digitais.  
 Gosto de fazer uns rabisco ![](flor.png)  
-Komaeda Nagito did nothing wrong.  
 **JUST MONIKA!** 
 
 E-mail: samia.karima@hotmail.com  
