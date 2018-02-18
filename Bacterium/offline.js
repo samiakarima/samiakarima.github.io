@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1518621257,
+	"version": 1518985201,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -53,6 +53,7 @@
 		"images/logo-sheet0.png",
 		"images/sprite13-sheet0.png",
 		"images/botaomenu-sheet0.png",
+		"images/spritefont.png",
 		"media/353543__maxmakessounds__happy-theme.m4a",
 		"media/353543__maxmakessounds__happy-theme.ogg",
 		"media/411161__inspectorj__piano-bach-fantasia-a-h4n.m4a",
