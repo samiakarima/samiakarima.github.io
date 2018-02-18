@@ -25893,7 +25893,6 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.exps.round,
 	cr.plugins_.Touch.prototype.exps.X,
 	cr.plugins_.Touch.prototype.exps.Y,
-	cr.plugins_.Audio.prototype.acts.StopAll,
-	cr.plugins_.Keyboard.prototype.cnds.IsKeyDown
+	cr.plugins_.Audio.prototype.acts.StopAll
 ];};
 
