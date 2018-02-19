@@ -23,9 +23,8 @@ E-mail: samia.karima@hotmail.com
 * * *
 ### Attack on Demon
 
-Parceria: [Julia Elizabeth](showhiter.github.io).
+[![](Attack.png)](https://samiakarima.github.io/AttackonDemon/)
 
-[![](Attack.png)](https://samiakarima.github.io/AttackonDemon/)  
 * * *
 ### Froppy
 
@@ -33,8 +32,6 @@ Parceria: [Julia Elizabeth](showhiter.github.io).
 
 * * *
 ### Elements: Origin of Matter.
-
-Parceria:[Álvaro Medeiros](AlvaroMD2016.github.io) e [Caio Matheus](caioms.github.io).  
 
 [![](Elements.png)](https://alvaromd2016.github.io/Elements/)  
 
