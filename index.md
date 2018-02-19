@@ -3,8 +3,7 @@ layout: default
 ---
 * * *
 # Quem sou eu?  
-Sâmia Kárima, 16y, libra, Acadêmico em Programação de Jogos Digitais.  
-Gosto de fazer uns rabisco ![](flor.png)  
+Sâmia Kárima, 16y, Acadêmico em Programação de Jogos Digitais.  
 **JUST MONIKA!** 
 
 E-mail: samia.karima@hotmail.com  
@@ -26,9 +25,6 @@ E-mail: samia.karima@hotmail.com
 
 Parceria: Julia Elizabeth.
 
-Artes por mim e Zenki. ~~vlw amigão~~  
-Música de Fundo: [GhostVoltage.](https://www.youtube.com/channel/UCFs4dJlee69Pao7nMXZ6jIw)  
-Efeitos Sonoros: [Freesound.](https://freesound.org/)  
 [![](Attack.png)](https://samiakarima.github.io/AttackonDemon/)  
 * * *
 ### Froppy
@@ -50,8 +46,7 @@ Efeitos Sonoros: [Freesound.](https://freesound.org/)
 * * *
 ### POISON (Game Mockup).
 
-Mockup desenvolvido como requisito para obtenção da pontuação do quarto da disciplina de Oficina de Criação, que devido a uns contratempos, não houve possibilidade de desenvolver o jogo até o fim do ano letivo, a restrição anteriormente era o jogo funcionar em grid, mas essa exigencia foi anulada posteriormente e obrigatoriamente ser em pixel art, o tema escolhido para o quarto bimestre foi mistério.  
-Feito a partir da parceria com o anluno [João Thiago](JoaoThiago06.github.io), o qual se responsabilizou pelos áudios, enquanto eu pelas artes ![Poison](poison.gif)
+![Poison](poison.gif)
 
 * * *
 ## Projetos de Jogos (EM ANDAMENTO)
@@ -71,6 +66,6 @@ Será um jogo em quebra cabeça, composto por ilustrações feitas com aquarela 
 ![](yurii.png)
 
 * * *
-## Meu Influence Map :D
+## Meu Mapa de Influência :D
 * * *
 ![](influence.png)
