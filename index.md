@@ -23,24 +23,19 @@ E-mail: samia.karima@hotmail.com
 * * *
 ### Attack on Demon
 
-Parceria: Julia Elizabeth.
+Parceria: [Julia Elizabeth](showhiter.github.io).
 
 [![](Attack.png)](https://samiakarima.github.io/AttackonDemon/)  
 * * *
 ### Froppy
 
-Arte por mim, Zenki e Pedoronn ~~obrigada novamente aos meus estagiarios n remunerados sem vcs eu n estaria aqui~~  
-Música de Fundo: [Musikage.](https://www.youtube.com/channel/UCsej4tgCoXDgVH3J7M3NMgw)  
-Efeitos Sonoros: [Freesound.](https://freesound.org/)  
 [![](Froppy.png)](https://samiakarima.github.io/Froppy/)  
+
 * * *
 ### Elements: Origin of Matter.
 
 Parceria:[Álvaro Medeiros](AlvaroMD2016.github.io) e [Caio Matheus](caioms.github.io).  
 
-Arte por mim, Caio e Zenki ~~pq esse menino me ama mds <3~~  
-Música de Fundo: [Epic-NES-Metal.](https://www.youtube.com/channel/UCQQpJntKgPEyMhsNFQrJQXg)   
-Efeitos Sonoros: [Freesound.](https://freesound.org/)    
 [![](Elements.png)](https://alvaromd2016.github.io/Elements/)  
 
 * * *
