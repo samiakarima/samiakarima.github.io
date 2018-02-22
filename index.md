@@ -3,7 +3,7 @@ layout: default
 ---
 * * *
 # Quem sou eu?  
-Sâmia Kárima, 16y, Acadêmico em Programação de Jogos Digitais.  
+Sâmia Kárima, 16 anos de oxigênio, Acadêmico em Programação de Jogos Digitais.  
 **JUST MONIKA!** 
 
 E-mail: samia.karima@hotmail.com  
