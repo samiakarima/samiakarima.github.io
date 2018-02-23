@@ -2,6 +2,7 @@
 layout: default
 ---
 * * *
+![](ss.png)
 # Quem sou eu?  
 Sâmia Kárima, 16 anos de oxigênio, Cursando Técnico em Programação de Jogos Digitais.  
 **JUST MONIKA!** 
