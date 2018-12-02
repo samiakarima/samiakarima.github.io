@@ -4,8 +4,8 @@ layout: default
 * * *
 ![](ss.png)
 # Quem sou eu?  
-Sâmia Kárima, 17 y, Concluindo o curso Técnico e Integrado em Programação de Jogos Digitais.  
-**JUST MONIKA!** 
+Sâmia Kárima, 17y, Concluindo o curso Técnico e Integrado em Programação de Jogos Digitais.  
+Eu tbm faço uns rabisco
 
 E-mail: samia.karima@hotmail.com  
 
