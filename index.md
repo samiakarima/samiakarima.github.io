@@ -12,6 +12,6 @@ E-mail: samia.karima@hotmail.com
 [![](facebook.png)](https://www.facebook.com/pqpsamia)
 [![](twitter.png)](https://twitter.com/pqpsamia)
 [![](steam.png)](http://steamcommunity.com/id/pqpsamia)
-[![](instagram.png)](https://www.instagram.com/pqpsamina)
+[![](instagram.png)](https://www.instagram.com/samia.karima/)
 [![](pinterest.png)](https://br.pinterest.com/samiakarima10)  
 
